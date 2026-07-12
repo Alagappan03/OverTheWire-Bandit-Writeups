@@ -111,9 +111,3 @@ Key Takeaways
 * Filenames beginning with `-` or `--` can be mistaken for command options.
 * `./` and `--` are useful techniques for safely accessing such files.
 * Understanding shell argument parsing helps solve many Linux command-line problems.
-
----
-
-## ⭐ Difficulty
-
-⭐☆☆☆☆ (Beginner)
