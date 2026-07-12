@@ -1,18 +1,18 @@
-# 🏴 Bandit Level 1 → Level 2
+# Bandit Level 1 → Level 2
 
-## 🎯 Objective
+## Objective
 
 The goal of this level is to find the password for **Bandit Level 2**. The password is stored in a file named `-` located in the home directory.
 
 ---
 
-## 🧠 Challenge Overview
+## Challenge Overview
 
 Unlike the previous level, the file name is simply `-` (a single dash). In Linux, a dash is commonly treated as a special argument by many commands instead of a normal filename. Because of this, we need to specify that it is a file in the current directory.
 
 ---
 
-## 🛠 Commands Used
+## Commands Used
 
 ### 1. Connect to the Bandit Server
 
@@ -64,7 +64,7 @@ The output contains the password for the next Bandit level.
 
 ---
 
-## 💡 Why Doesn't `cat -` Work?
+## Why Doesn't `cat -` Work?
 
 Many Linux commands interpret `-` as a special argument (often meaning **standard input**). As a result, `cat -` waits for input from the keyboard instead of reading the file.
 
@@ -78,7 +78,7 @@ we explicitly tell Linux to read the file named `-` from the current directory.
 
 ---
 
-## 📚 Concepts Learned
+## Concepts Learned
 
 * Special filenames in Linux.
 * The meaning of `./` (current directory).
@@ -98,17 +98,15 @@ we explicitly tell Linux to read the file named `-` from the current directory.
 
 ---
 
-## 📸 Suggested Screenshots
+## Screenshots
 
-* SSH login to Bandit Level 1
-* Output of the `ls` command
-* Running `cat ./-`
-
-> ⚠️ Remember to blur or crop out the password before uploading screenshots.
-
+<img width="2880" height="1348" alt="l2-bandit-2" src="https://github.com/user-attachments/assets/f2fff514-6c9e-4483-8f7b-fc24aeff94e6" />
 ---
+<img width="2880" height="1348" alt="l2-bandit-2" src="https://github.com/user-attachments/assets/bfd6ab8a-b2a1-40e7-ba3b-706d4c7c9c6d" />
+---
+<img width="2832" height="196" alt="l2-bandit-1" src="https://github.com/user-attachments/assets/421ca0f6-b16b-4871-91e8-d61048192f25" />
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 * File names can contain special characters.
 * `-` is often interpreted as a special argument by Linux commands.
