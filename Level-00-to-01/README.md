@@ -80,9 +80,9 @@ The output contains the password for the next Bandit level.
 ## Screenshots
 
 <img width="1702" height="512" alt="l1_bandit-1" src="https://github.com/user-attachments/assets/4aa10b4c-21b1-4105-8b0c-f3dacdceab6f" />
-
+---
 <img width="1680" height="310" alt="l1_bandit-2" src="https://github.com/user-attachments/assets/a87e2e6b-e347-4df2-b401-5b633a99a54c" />
-
+---
 <img width="1414" height="158" alt="l1_bandit-3" src="https://github.com/user-attachments/assets/006e9af9-ef62-4967-b91d-ee2cba280a4b" />
 
 ---
