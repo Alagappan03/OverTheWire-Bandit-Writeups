@@ -130,11 +130,11 @@ The output contains the password for the next Bandit level.
 
 ## Suggested Screenshots
 
-<img width="2880" height="132" alt="l5_bandit-3" src="https://github.com/user-attachments/assets/0d2ce05e-cde1-44d2-bb4e-c7bc4ad00ad9" />
+<img width="2880" height="1130" alt="l5_bandit-1" src="https://github.com/user-attachments/assets/577f117d-a195-4c44-80db-cddd202d8a0a" />
 
 <img width="2872" height="626" alt="l5_bandit-2" src="https://github.com/user-attachments/assets/16c077a6-a843-4358-971e-8245030db119" />
 
-<img width="2880" height="1130" alt="l5_bandit-1" src="https://github.com/user-attachments/assets/577f117d-a195-4c44-80db-cddd202d8a0a" />
+<img width="2880" height="132" alt="l5_bandit-3" src="https://github.com/user-attachments/assets/0d2ce05e-cde1-44d2-bb4e-c7bc4ad00ad9" />
 
 
 ---
