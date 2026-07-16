@@ -16,7 +16,7 @@ Instead of opening every file manually, we can use the `file` command to determi
 
 ---
 
-## 🛠 Commands Used
+## Commands Used
 
 ### 1. Connect to the Server
 
@@ -135,7 +135,6 @@ The output contains the password for the next Bandit level.
 <img width="2872" height="626" alt="l5_bandit-2" src="https://github.com/user-attachments/assets/16c077a6-a843-4358-971e-8245030db119" />
 
 <img width="2880" height="132" alt="l5_bandit-3" src="https://github.com/user-attachments/assets/0d2ce05e-cde1-44d2-bb4e-c7bc4ad00ad9" />
-
 
 ---
 
