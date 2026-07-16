@@ -139,6 +139,12 @@ The output contains the password for the next Bandit level.
 
 ---
 
+## My Notes
+
+At first, I tried using `cat -file07`, but Linux treated `-f` as an option instead of a filename. I learned that prefixing the filename with `./` tells the shell to treat it as a file in the current directory.
+
+---
+
 ## Key Takeaways
 
 * The `file` command helps identify different file types.
