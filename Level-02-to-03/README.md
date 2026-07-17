@@ -17,7 +17,7 @@ To access the file correctly, we must tell the shell and the command that it is 
 
 ---
 
-## 🛠 Commands Used
+## Commands Used
 
 ### 1. Connect to the Server
 
